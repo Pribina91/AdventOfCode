@@ -28,8 +28,6 @@ namespace AdventOfCode._3
                 result *= treesCount;
             }
 
-           
-           // var count = treesCount.Count();
             Console.WriteLine($"total- {result}");
         }
 
